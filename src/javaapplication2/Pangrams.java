@@ -22,7 +22,7 @@ public class Pangrams {
         enterPangrams = scan.nextLine();
         enterPangrams = enterPangrams.toLowerCase();
         char[] charArray = enterPangrams.toCharArray();
-        HashMap
+        
         
         
         for(int i = 0; i< charArray.length; i++){
